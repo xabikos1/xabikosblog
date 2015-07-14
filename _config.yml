@@ -7,7 +7,7 @@ title: Xabikos1
 subtitle: Xabikos1 subtitle
 description: "This is the test hexo"
 author: xabikos
-language: English
+language: en
 timezone: GR
 
 # URL
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
