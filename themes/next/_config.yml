@@ -65,7 +65,7 @@ auto_excerpt:
 # Note: this option is avialable only when the language is not `zh-Hans`
 use_font_lato: true
 
-language: en
+
 
 ## DO NOT EDIT THE FOLLOWING SETTINGS
 ## UNLESS YOU KNOW WHAT YOU ARE DOING
